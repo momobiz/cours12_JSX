@@ -1,0 +1,15 @@
+.title{
+  text-align: center;
+font-style: italic;
+color:white
+}
+body{
+  background-color: #535f6d;
+}
+img, iframe{
+  padding:10px;
+  
+}
+.App{
+  text-align:center;
+}
